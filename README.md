@@ -4,8 +4,8 @@
 <li>VCS ODYSEEY 18 </li><br>
 <li>KMUTT CPE37</li> <br>
 <div id="badges">
-  <a href="https://www.instagram.com/e_mc.c/">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/instagram_logo_icon_168715.png" alt="ig" style="width:30px" target="_blank"/>
+  <a href="https://www.instagram.com/e_mc.c/" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/instagram_logo_icon_168715.png" alt="ig" style="width:30px" />
   </a>
 </div>
 <!--
