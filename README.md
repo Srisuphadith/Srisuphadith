@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+---
+Srisuphadith Rattanaprasert <br>
+VCS ODYSEEY 18 <br>
+KMUTT CPE37 <br>
 <!--
 **Srisuphadith/Srisuphadith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
