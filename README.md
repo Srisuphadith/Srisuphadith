@@ -12,13 +12,4 @@
   <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7dvu3xzvepdcy1919s2q.png" alt="apache2" style="width:60px">
   <img src="https://i0.wp.com/saixiii.com/wp-content/uploads/2017/04/linux-banner.jpg?fit=600%2C232&ssl=1" alt="linux" style="width:65px">
 </div>
-<div id="badges">
-  <a href="https://www.instagram.com/e_mc.c/" >
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/instagram_logo_icon_168715.png" alt="ig" style="width:30px;" />
-  </a>
-  <a href="https://techno.varee.ac.th/05657/">
-    <img src="https://img.freepik.com/premium-vector/white-globe-icon-with-long-shadow-vector-illustration-symbol-earth-planet-icon-world-symbol-flat-style_118339-1384.jpg" style="width:30px;" >
-  </a>
-  
-</div>
 
