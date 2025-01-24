@@ -1,6 +1,4 @@
-### Hi there 👋
----
-# Srisuphadith Rattanaprasert <br>
+# Srisuphadith<br>
 <li>VCS ODYSEEY 18 </li><br>
 <li>KMUTT CPE37</li> <br>
 
