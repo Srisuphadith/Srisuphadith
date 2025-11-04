@@ -3,7 +3,7 @@
 cosplay
 <br>
 <!--<img src="banner.jpeg">!-->
-  <img src="cosplay.jpg" style="width:600px">
+  <img src="cosplay.jpg" width="50%">
 <img src="https://skillicons.dev/icons?i=js,ts,html,bun,elysia,react,vite,figma,c,cpp,py,mysql,php,arduino,raspberrypi,vscode,swift,linux,apple,windows,github,discord">
 
 ---
